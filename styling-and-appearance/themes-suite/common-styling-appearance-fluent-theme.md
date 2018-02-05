@@ -59,7 +59,7 @@ The default values of the brushes in the theme are listed below:
 
 You can switch between the color palettes by calling the LoadPreset method as shown below:
 
-#### **[C#] Example 1: Changing the color variantion of the theme**
+#### **[C#] Example 1: Changing the color variation of the theme**
 {{region styling-appearance-fluent-theme-0}}	
 	//default color variation
 	FluentPalette.LoadPreset(FluentPalette.ColorVariation.Light);  
